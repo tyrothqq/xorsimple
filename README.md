@@ -48,6 +48,3 @@ To decrypt the file, simply run the tool again with the encrypted file. Since th
 
 Feel free to fork the repository, create an issue, or submit a pull request if you'd like to contribute improvements or bug fixes!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
