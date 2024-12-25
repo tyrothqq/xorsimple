@@ -44,7 +44,5 @@ To decrypt the file, simply run the tool again with the encrypted file. Since th
 - **Encryption Key**: The default encryption key is `0xAA`. You can change the key by modifying the source code in the `xorEncryptDecrypt` function.
 - **File Types**: The tool can encrypt any file type. The file extension is not important, but the `.enc` extension is added to the encrypted files for clarity.
 
-## Contributing
 
-Feel free to fork the repository, create an issue, or submit a pull request if you'd like to contribute improvements or bug fixes!
 
